@@ -1,0 +1,11 @@
+rotate 90 
+penup 
+move 3
+pendown
+rotate 70 
+move 5
+penup
+move 5
+pendown  
+rotate 30
+move 5
